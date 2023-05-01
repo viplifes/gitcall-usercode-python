@@ -10,3 +10,6 @@ rm -rf /usr/local/bin/python3
 
 # install runner deps
 pip3 install json-rpc
+
+# set chmod
+chmod 777 -R /tmp && chmod o+t -R /tmp
