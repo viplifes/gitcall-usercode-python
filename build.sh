@@ -1,2 +1,2 @@
-apk --no-cache add musl-dev linux-headers g++
-pip install -r requirements.txt 
+apk --no-cache add py3-numpy
+pip install -U scikit-learn
