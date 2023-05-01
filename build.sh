@@ -1,2 +1,1 @@
-apk --no-cache add py3-numpy
-pip install -U scikit-learn
+apk --no-cache add py3-scikit-learn
