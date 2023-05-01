@@ -1,4 +1,4 @@
 #!/bin/sh
 
-apk add py3-scikit-learn
-#export PYTHONPATH=/usr/lib/python3.8/site-packages
+apk add py3-scikit-learn py3-pip
+export PATH="/usr/bin/:$PATH"
